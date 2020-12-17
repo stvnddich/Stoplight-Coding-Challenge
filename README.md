@@ -18,7 +18,7 @@ Create an user list component component that supports sorting and filtering.
 
 Create a UserList component from a design.
 
-The component should match the provided Figma design as closely as possible: https://www.figma.com/proto/oTzalUuDYt5KgDjYAvma2h/Hiring---Frontend---Members-List?node-id=1%3A563&viewport=594%2C489%2C0.4336075186729431&scaling=min-zoom
+The component should match the provided Figma design as closely as possible _where possible without exceeding the 1-2 hour timeframe_ (Some components like the dropdown select may prove challenging to style exactly as shown.): https://www.figma.com/proto/oTzalUuDYt5KgDjYAvma2h/Hiring---Frontend---Members-List?node-id=1%3A563&viewport=594%2C489%2C0.4336075186729431&scaling=min-zoom
 
 The design is an interactive prototype, so do check out the link. A static screenshot is provided below just in case:
 
